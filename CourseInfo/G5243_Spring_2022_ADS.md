@@ -7,7 +7,7 @@
 
 * Classes: Tuesdays XXXX 
 * Instructor: Tian Zheng
-	Galen McKinley. <gam2156@columbia.edu> [(@galenmckinley)](https://github.com/galenmckinley)
+	* Galen McKinley. <gam2156@columbia.edu> [(@galenmckinley)](https://github.com/galenmckinley)
 	* Office hours: TBD
 	* Contact preference: through Piazza
 * TA: 
