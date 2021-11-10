@@ -5,18 +5,19 @@
 
 #### Course Information
 
-* Classes: Wednesdays 6:10pm-8:55pm, online via Zoom (can join through coursework "Zoom Class Sessions")
-* Instructor: Ying Liu. <yl2587@columbia.edu> [(@yingliug)](https://github.com/yingliug)
-	* Office hours: after class
-* TA: Diane Lu. <dl3213@columbia.edu> [(@mathdiane)](http://github.com/mathdiane)
-	<!--- * Office hours: Mondays 6:00 pm to 8:00 pm on 10th Floor Lounge of SSW ---> 
-	* Office hours: Mondays 2:00 pm to 2:30 pm and 8:00 pm to 9:30 pm via Zoom (can join through coursework "Zoom Class Sessions")
+* Classes: Tuesdays XXXX 
+* Instructor: Tian Zheng
+	Galen McKinley. <gam2156@columbia.edu> [(@galenmckinley)](https://github.com/galenmckinley)
+	* Office hours: TBD
 	* Contact preference: through Piazza
+* TA: 
+	<!--- * Office hours:  ---> 
+	* Contact preference: 
 
 		
 * Course websites (all accessible via courseworks or github): 
 	* Grades and basic course info on **Courseworks**: <http://courseworks2.columbia.edu>
-	* Discussion board on **Piazza**: <https://piazza.com/class/kjn957avsba7p3>
+	* Discussion board on **Piazza**: <https://piazza.com/class/**** >
 	* Course materials and repositories on **GitHub**: <http://tzstatsads.github.io> or <https://github.com/TZstatsADS/ADS_Teaching>
  
 #### Prerequisites
@@ -25,10 +26,10 @@ The pre-requisite for this course includes working knowledge in Statistics and P
 #### Description  
 This course incorporates knowledge and skills covered in a statistical curriculum with topics and projects in data science. Programming will be covered using existing tools mostly in R, while students can use tools from other languages. Computing best practices will be taught using test-driven development, version control, and collaboration. Students finish the class with a portfolio on GitHub, and deeper understanding of several core statistical/machine-learning algorithms. 
 
-This course will be a project-based hands-on course in data science. **No formal instruction on statistics, data science, machine learning will be given**. Project cycles run every 2-3 weeks, where we will have mini-group data projects. Groups will be formed **randomly** and project products will be peer-reviewed, in addition to evaluation by the instructional team.
+This course will be a project-based hands-on course in data science. **No formal instruction on statistics, data science, machine learning or climate science will be given**. Project cycles run every 4-5 weeks, where we will have mini-group data projects. Groups will be formed **randomly** and project products will be peer-reviewed, in addition to evaluation by the instructional team.
 
 #### Course organization
-This course will have a total of *five* project cycles, while Project 5 is optional and free-topic. For Projects 1-4, each project cycle follows a sequence of four types of activities. 
+This course will have a total of *three* project cycles. For Projects 1-3, each project cycle follows a sequence of four types of activities. 
 
 **a**. Dataset release, introduction to the data science problem, individual exercises, team forming
 
@@ -42,34 +43,33 @@ Except for project 1, students will be working in teams of 5 that will be random
 
 We will have a total of five project cycles for this course (topics are subject to change):
 
-1. [Individual] R notebook for exploratory data analysis 
-2. Shiny app for interactive data visualization project.
-3. Predictive analytics of images.
-4. Algorithms implementation, evaluation, and reproducibility challenge.
-5. [optional] *Free topic*.
+1. [Individual] Hurricane Tracking
+2. Lake physics
+3. Predicting ocean pCO2 from sparse data
 
-Below is a tentative schedule for Spring 2021 we will follow.
+Below is a tentative schedule for Spring 2022 we will follow.
 
-+ Week 1 (Jan 13): 1a+1b
-+ Week 2 (Jan 20): 1c
-+ Week 3 (Jan 27): 1d+2a
-+ Week 4 (Feb 3): 2b+2c
-+ Week 5 (Feb 10): 2c
-+ Week 6 (Feb 17): 2d+3a
-+ Week 7 (Feb 24): 3b+3c
-+ Spring Break
-+ Week 8 (Mar 10): 3b+3c
-+ Week 9 (Mar 17): 3d+4a
-+ Week 10 (Mar 24): 4b+4c
-+ Week 11 (Mar 31): 4b+4c
-+ Week 12 (Apr 7): 4d+5c
-+ Week 13 (Apr 14): 5c
++ Week 1 (Jan 17): 1a
++ Week 2 (Jan 24): 1b
++ Week 3 (Jan 31): 1c
++ Week 4 (Feb 7): 1d
++ Week 5 (Feb 14): 2a
++ Week 6 (Feb 21): 2b
++ Week 7 (Feb 28): 2c
++ Week 8 (Mar 7): 2d
++ + Spring Break
++ Week 9 (Mar 21): 3a
++ Week 10 (Mar 28): 3b
++ Week 11 (Apr 4): 3c
++ Week 12 (Apr 11): 3c
++ Week 13 (Apr 18): 3d
++ Week 14 (Apr 25): wrap up 
 
 #### Evaluation
 
 Students' performance will be evaluated based on 
 
-* [85%] Project products (instructor-reviewed and/or peer-reviewed, averaged over 4 projects with highest grades). Each project description will have explicit grading rubrics. 
+* [85%] Project products (instructor-reviewed and/or peer-reviewed, averaged over 3 projects). Each project description will have explicit grading rubrics. 
 * [15%] Individual participation (based on individual tasks and instructors' observation).
 
 	##### A note on participation evaluation. 
@@ -97,6 +97,9 @@ There is not a single required text. As part of this course, we will learn from 
 + Tuffe (2001) The visual display of quantitative information.
 + Fung (2013) Numbersense: how to use big data to your advantage.
 + Wickham (2017) R for Data Science http://r4ds.had.co.nz/
+
++ Archer (2011) Global Warming: Understanding the Forecast, 2nd edition
++ Williams and Follows (2011) Ocean Dynamics and the Carbon Cycle
 
 #### Class policy
 
